@@ -10,3 +10,6 @@ A minimalistic and secure web application for Tarantino Theaters, featuring user
 🚀 Tech Stack: HTML | CSS | JavaScript | PHP | MySQL
 
 📂 How to Run: Clone the repository, set up the database, and start the server!
+
+Youtube Link describing the web application:
+https://youtu.be/H-sqLUcm1K8
